@@ -4,3 +4,4 @@
 if (" ") alert("Yes");
 else alert("Nooo");
 ```
+// ได้ คำว่า Yes

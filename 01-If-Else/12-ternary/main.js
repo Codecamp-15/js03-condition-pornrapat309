@@ -1,0 +1,2 @@
+let score = prompt("Enter score");
+message = (score >= 80 && score <= 100) ? alert("Grade A") : (score >= 70 && score < 80) ? alert("Grade B") : (score >= 60 && score < 70) ? alert("Grade C") : (score >= 50 && score < 60) ? alert("Grade D") : (score < 50 && score >= 0) ? alert("Grade F") : alert("Invalid range");
